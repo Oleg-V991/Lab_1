@@ -4,7 +4,7 @@ if (!window["App"]) throw new Error("Critical Error in Application");
 
     //===========================================================================================================
 
-
+    
     function lib() {
         var _windowContainer = null,
         _guid = null,
